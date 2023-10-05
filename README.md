@@ -3,7 +3,9 @@
 
 <!-- If want add banner can add here -->
 
-## About:
+### About:
+
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;"> -->
 
 <ul>
   <li> 💻 I’m currently studying at <a href="https://www.usm.my">Universiti Sains Malaysia(USM) </a> </li>
