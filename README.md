@@ -17,11 +17,17 @@
 <img src="https://komarev.com/ghpvc/?username=JackyChung2003&style=flat-square&color=blue" alt="my github badge counter" />
 
 
+### Connect with me:
+<p>
+<a href="www.linkedin.com/in/jacky-chung-sze-yung-630b2b188"><img src=""></a>
+<a href="mailto:clashofjacky@gmail.com"><img src=""></a>
+</p>
+
 <!--
 need to have banner
 can have profile view
 can have about me
-better have a moving git
+better have a moving gif
 have a light and darkmode social media link
 language or tools use
 
