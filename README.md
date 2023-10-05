@@ -19,8 +19,23 @@
 
 ### Connect with me:
 <p>
-<a href="www.linkedin.com/in/jacky-chung-sze-yung-630b2b188"><img src=""></a>
-<a href="mailto:clashofjacky@gmail.com"><img src=""></a>
+<a href="www.linkedin.com/in/jacky-chung-sze-yung-630b2b188">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-dark-mode.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/linkedin-light-mode.png">
+    <img alt="Linkedin Icon" width="5%">
+  </picture>
+</a>
+<a href="mailto:clashofjacky@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/mail-dark-mode.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/mail-light-mode.png">
+    <img alt="Email Icon" width="5%">
+  </picture>
+</a>
+<!-- Can add youtube and instagram here if got related information --->
+
+
 </p>
 
 <!--
