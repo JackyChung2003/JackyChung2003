@@ -11,6 +11,8 @@
   <li> 💬 Ask me about <b>C++, Python, or anything [here]()</b> </li>
   <li> 📫 Feel free to reach me: <a href="mailto: clashofjacky@gmail.com">clashofjacky@gmail.com</a> </li>
 </li>
+  
+<img src="https://komarev.com/ghpvc/?username=JackyChung2003&style=flat-square&color=blue" alt="my github badge counter" />
 
 
 <!--
