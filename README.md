@@ -1,6 +1,8 @@
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Jacky+Chung.;I+love+building+cool+projects.;As+a+novice,+I'm+eager+to+learn.;Hit+me+up+for+exciting+collaboration!
 )](https://git.io/typing-svg)
 
+<img src="https://komarev.com/ghpvc/?username=JackyChung2003&style=flat-square&color=blue" alt="my github badge counter" align="right"/>
+
 <!-- If want add banner can add here -->
 
 ### About:
