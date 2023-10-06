@@ -2,6 +2,9 @@
 )](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=JackyChung2003&style=flat-square&color=blue" alt="my github badge counter" align="right"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Made_With_Love-blue?style=flat-square" alt="Made with love" align="right">
+<img alt="Static Badge" src="https://img.shields.io/badge/Author-Jacky-blue?style=flat-square&logo=github&color=blue" alt="Author badge" align="right">
+
 
 <!-- If want add banner can add here -->
 
