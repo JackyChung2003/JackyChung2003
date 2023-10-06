@@ -4,8 +4,12 @@
 <!-- If want add banner can add here -->
 
 ### About:
-
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;"> -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/Img-using-computer-dark-mode.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="images/Img-using-computer-light-mode.jpg">
+    <img alt="Image using computer" width="50%" align="right">
+  </picture>
+<!-- <img alt="Night Coding" src="images/Img for dark mode.jpg" align="right" style="max-width:100%;"> --->
 
 <ul>
   <li> 💻 I’m currently studying at <a href="https://www.usm.my">Universiti Sains Malaysia(USM) </a> </li>
