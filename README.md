@@ -9,20 +9,20 @@
 <!-- If want add banner can add here -->
 
 ### About:
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/Img-using-computer-dark-mode.jpg">
     <source media="(prefers-color-scheme: light)" srcset="images/Img-using-computer-light-mode.jpg">
     <img alt="Image using computer" width="45%" align="right">
-  </picture>
+</picture>
 
 <ul>
-  <li> 💻 I’m currently studying at <a href="https://www.usm.my">Universiti Sains Malaysia(USM) </a> </li>
-  <li> 🎓 I’m currently majoring in Intelligent Computing </li>
-  <li> 💬 Ask me about <b>C++, Python, or anything [here]()</b> </li>
-  <li> 📫 Feel free to reach me: <a href="mailto: clashofjacky@gmail.com">clashofjacky@gmail.com</a> </li>
-</li>
-  
-<img src="https://komarev.com/ghpvc/?username=JackyChung2003&style=flat-square&color=blue" alt="my github badge counter" />
+    <li> 💻 I’m currently studying at <a href="https://www.usm.my">Universiti Sains Malaysia(USM) </a> </li>
+    <li> 🎓 I’m currently majoring in Intelligent Computing </li>
+    <li> 💬 Ask me about <b>C++, Python, or anything [here]()</b> </li>
+    <li> 📫 Feel free to reach me: <a href="mailto: clashofjacky@gmail.com">clashofjacky@gmail.com</a> </li>
+    <li> 🕵️‍♂️ Discover the hidden easter egg: Picture on the right change with <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/managing-your-theme-settings">GitHub's theme </a>! 🌗 ➯➯➯➯ </li>
+</ui>
 
 
 ### Connect with me:
