@@ -27,7 +27,7 @@
 
 ### Connect with me:
 <p>
-<a href="www.linkedin.com/in/jacky-chung-sze-yung-630b2b188">
+<a href="https://www.linkedin.com/in/jacky-chung-sze-yung-630b2b188">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-dark-mode.png">
     <source media="(prefers-color-scheme: light)" srcset="images/linkedin-light-mode.png">
