@@ -38,7 +38,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/instagram-dark-mode.png">
     <source media="(prefers-color-scheme: light)" srcset="images/instagram-light-mode.png">
-    <img alt="Youtube Icon" width="2.5%" valign="middle">
+    <img alt="Youtube Icon" width="5%">
   </picture>
 </a>
 <a href="https://instagram.com/code_with_seed?igshid=OGQ5ZDc2ODk2ZA==">
@@ -57,6 +57,7 @@
 </a>
 </p>
 
+<!--
 <tables tyle="border:0;">
   <tr boader="none">
     <td valign="middle">
@@ -95,6 +96,8 @@
     </td>
   </tr>
 </table>
+--->
+
 
 <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackyChung2003/JackyChung2003/output/github-snake-dark.svg" />
