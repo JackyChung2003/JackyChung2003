@@ -41,7 +41,14 @@
     <img alt="Email Icon" width="5%">
   </picture>
 </a>
-<!-- Can add youtube and instagram here if got related information --->
+<a href="https://instagram.com/code_with_seed?igshid=OGQ5ZDc2ODk2ZA==">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/youtube-dark-mode.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/youtube-light-mode.png">
+    <img alt="Youtube Icon" width="5%">
+  </picture>
+</a>
+<!-- Can add youtube here if got related information --->
 </p>
 
 
