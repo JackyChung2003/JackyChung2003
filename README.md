@@ -19,7 +19,7 @@
 <ul>
     <li> 💻 I’m currently studying at <a href="https://www.usm.my">Universiti Sains Malaysia(USM) </a> </li>
     <li> 🎓 I’m currently majoring in Intelligent Computing </li>
-    <li> 💬 Ask me about <b>C++, Python, or anything [here]()<a href="https://www.usm.my">Universiti Sains Malaysia(USM) </a></b> </li>
+    <li> 💬 Ask me about <b>C++, Python, or anything <a href="mailto: clashofjacky@gmail.com">here</a> </b> </li>
     <li> 📫 Feel free to reach me: <a href="mailto: clashofjacky@gmail.com">clashofjacky@gmail.com</a> </li>
     <li> 🕵️‍♂️ Discover the hidden easter egg: Picture on the right change with <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/managing-your-theme-settings">GitHub's theme </a>! 🌗 ➯➯➯➯ </li>
 </ui>
