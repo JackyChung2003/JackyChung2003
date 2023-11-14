@@ -65,7 +65,7 @@
 
 
 <!--
-need to have banner
+need to have banner 
 can have profile view
 can have about me
 better have a moving gif
